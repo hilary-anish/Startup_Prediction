@@ -7,6 +7,7 @@ Predicting whether a STARTUP will be Acquired (or) Closed in the long run based 
 <li>Data Cleaning</li>
 <li>Null values Handling</li>
 <li>Replacing with proper data types</li>
+<li>Data Visualization</li>
 <li>Data Engineering</li>
 <li>Feature Selection</li>
 <li>XG-boost model for Classification</li>
